@@ -6,6 +6,7 @@ For the purpose of this exercise, the following assumptions are made.
 - Rabbits take one month to reach an age at which they may give birth.
 - Every month thereafter, a breeding pair of rabbits produce one further pair of rabbits.
 - Rabbits never die and never stop being able to produce further rabbits.
+
 **How many pairs of rabbits will be produced from this single pair of rabbits after one year?**
 
 ## How did we solve the problem?
