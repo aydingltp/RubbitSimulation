@@ -36,7 +36,7 @@ See : https://jacopretorius.net/2010/01/multithreading-example-in-c.html
 
 **If you want to simulate for different animals, you must create a calculation method for the population of animals.**
 
-# Output Rubbit Simulation
+## Output Rubbit Simulation
 
 ![image](https://user-images.githubusercontent.com/30267270/159235853-e043d8e7-1aae-4e99-b240-d94ff034f0d6.png)
 
