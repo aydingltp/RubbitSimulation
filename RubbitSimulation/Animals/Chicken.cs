@@ -10,7 +10,7 @@ namespace RubbitSimulation
     {
         public override double CalculatePopulationCount(int monthlyCycle)
         {
-            Console.WriteLine("chicken :");
+            // Formula needed to calculate chicken population.
 
             return monthlyCycle;
         }

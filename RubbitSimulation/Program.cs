@@ -24,7 +24,6 @@ namespace RubbitSimulation
             //var simulationChicken = new Simulation<Chicken>(montlyCycle);
             //simulationChicken.Run();
 
-
         }
     }
 }
